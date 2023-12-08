@@ -3,7 +3,8 @@ Para criar um bot do WhatsApp com conexão por código QR, podemos usar HTML e N
 1°// Instale as dependências necessárias:
 
 -Node.js: Baixe e instale o Node.js do site oficial.
--whatsapp-web.jspacote: Abra seu terminal e execute o seguinte comando para instalar o pacote:
+
+-whatsapp-web.js: Abra seu terminal e execute o seguinte comando para instalar o pacote:
 ` 
 
 ## NPM
